@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Amit Kumar Das</h1>
 # 💫 About Me:
 Hi, I’m Amit Kumar Das, a Computer Science undergraduate and Frontend Developer from India 🇮🇳. I enjoy building clean, responsive, and user-friendly web applications using React, Tailwind CSS, and JavaScript.<br><br>I have hands-on experience in AI, data analytics, and cybersecurity through internships and real-world projects. I actively practice DSA and problem-solving on LeetCode and continuously work on improving my software development skills.<br><br>🔭 Interested in: Frontend Development, UI/UX, AI, Cybersecurity<br><br>🌱 Currently learning: Advanced React, DSA, and System Design<br><br>🎯 Goal: To build impactful software and grow as a software engineer
 
